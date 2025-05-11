@@ -23,6 +23,5 @@ This Python script is designed to solve the SQL problem presented in the **Bajaj
 The script automates the following steps:
 
 1. When the script runs, it sends a registration request to generate a webhook URL and an authentication token.
-2. Based on the last digit of the registration number (odd or even), the correct SQL query is determined and executed.
-3. The SQL query is then sent to the webhook for validation.
+2. The SQL query is then sent to the webhook for validation.
 
